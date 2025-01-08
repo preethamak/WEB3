@@ -5,6 +5,8 @@ Create a project using this example:
 ```bash
 npx thirdweb create --contract --template forge-starter
 ```
+Decentralized Crowdfunding Platform
+This is a blockchain-powered crowdfunding platform that allows creators to launch campaigns with transparency and empowers contributors with complete visibility over their contributions.
 
 You can start editing the page by modifying `contracts/Contract.sol`.
 
