@@ -3,7 +3,7 @@ This is a blockchain-powered crowdfunding platform that allows creators to launc
 
 🚀 Features
 ->Seamless Campaign Management: Create and manage crowdfunding campaigns effortlessly.\n
-->Blockchain Transparency: Every transaction is secure and visible on the blockchain.\n
+->Blockchain Transparency: Every transaction is secure and visible on the blockchain."\n"
 ->Decentralized Control: No middlemen, lower fees, and full user control.\n
 ->User-Friendly Interface: Built with React for a smooth user experience.\n
 
