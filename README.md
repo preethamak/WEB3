@@ -2,10 +2,10 @@ Decentralized Crowdfunding Platform
 This is a blockchain-powered crowdfunding platform that allows creators to launch campaigns with transparency and empowers contributors with complete visibility over their contributions.
 
 🚀 Features
-->Seamless Campaign Management: Create and manage crowdfunding campaigns effortlessly.
-->Blockchain Transparency: Every transaction is secure and visible on the blockchain.
-->Decentralized Control: No middlemen, lower fees, and full user control.
-->User-Friendly Interface: Built with React for a smooth user experience.
+->Seamless Campaign Management: Create and manage crowdfunding campaigns effortlessly.\n
+->Blockchain Transparency: Every transaction is secure and visible on the blockchain.\n
+->Decentralized Control: No middlemen, lower fees, and full user control.\n
+->User-Friendly Interface: Built with React for a smooth user experience.\n
 
 🛠️ Tech Stack
 ->Thirdweb SDK: For seamless blockchain integration and deployment.
